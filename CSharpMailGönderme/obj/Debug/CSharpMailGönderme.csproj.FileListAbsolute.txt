@@ -1,0 +1,10 @@
+C:\Users\krcsa\source\repos\CSharpMailGönderme\CSharpMailGönderme\bin\Debug\CSharpMailGönderme.exe.config
+C:\Users\krcsa\source\repos\CSharpMailGönderme\CSharpMailGönderme\bin\Debug\CSharpMailGönderme.exe
+C:\Users\krcsa\source\repos\CSharpMailGönderme\CSharpMailGönderme\bin\Debug\CSharpMailGönderme.pdb
+C:\Users\krcsa\source\repos\CSharpMailGönderme\CSharpMailGönderme\obj\Debug\CSharpMailGönderme.csprojResolveAssemblyReference.cache
+C:\Users\krcsa\source\repos\CSharpMailGönderme\CSharpMailGönderme\obj\Debug\CSharpMailGönderme.Form1.resources
+C:\Users\krcsa\source\repos\CSharpMailGönderme\CSharpMailGönderme\obj\Debug\CSharpMailGönderme.Properties.Resources.resources
+C:\Users\krcsa\source\repos\CSharpMailGönderme\CSharpMailGönderme\obj\Debug\CSharpMailGönderme.csproj.GenerateResource.Cache
+C:\Users\krcsa\source\repos\CSharpMailGönderme\CSharpMailGönderme\obj\Debug\CSharpMailGönderme.csproj.CoreCompileInputs.cache
+C:\Users\krcsa\source\repos\CSharpMailGönderme\CSharpMailGönderme\obj\Debug\CSharpMailGönderme.exe
+C:\Users\krcsa\source\repos\CSharpMailGönderme\CSharpMailGönderme\obj\Debug\CSharpMailGönderme.pdb
